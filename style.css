@@ -1,0 +1,64 @@
+div{
+  background: orange;
+  padding: 10px;
+  font-family:fantasy;
+}
+h1{
+  background: red;
+  margin: 20px 200px 80px 200px;
+  border: 2px solid white;
+  border-width:1px 6px 4px 2px;
+  border-style: solid dashed dotted double;
+  border-color: white lightgray gray black;
+  border-left: 5px solid green;
+  padding: 10px 60px 40px 20px;
+  text-align: center;
+  width: 400px;
+  hight: 100px;
+  font-size: 60px;
+  
+}
+p{
+  color: red;
+  background: yellow;
+  margin-top: 0;
+  margin-left: 5px;
+  margin-bottom: 0;
+}
+h3{
+  color: #121288;
+}
+h2{
+  color: rgb(230,20,150);
+}
+
+ol, ul{
+  color: lime;
+  margin: 5px;
+  margin-right: 120 px
+}
+box{
+  background
+  margin
+  border
+  padding
+  width
+  height
+}
+font{
+  serif
+  sans-serif
+  fantasy
+  cursive
+  
+}
+li{
+  background: hotpink;
+}
+#nevInputMezo{
+  background: lime;
+}
+
+.kiemeles{
+  background: lightblue;
+}
